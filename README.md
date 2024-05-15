@@ -1,2 +1,2 @@
-# Tableau
-Tableau - Handling Millions of rows of data with efficiency!
+# R
+R - statistical computing and graphical presentation to analyze and visualize data!
